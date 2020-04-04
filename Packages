@@ -1,4 +1,4 @@
-Package: com.kidsauto.kidsdaemon
+Package: com.yourepo.bimbim.kidsauto
 Name: AutoleadXXX 10.9.2
 Version: 9.2
 Architecture: iphoneos-arm
@@ -8,7 +8,7 @@ Homepage: https://www.facebook.com/tao.kieu.1
 Maintainer: Dev by Tue Mobi
 Section: System
 Tag: role::hacker
-Filename: ./Debs/KidsAuto821Pub.deb
+Filename: ./Debs/com.yourepo.bimbim.kidsauto_9.1_iphoneos-arm.deb
 Size: 1722982
 MD5sum: 47c284772f1bb2468af09d8f9ed1cacd
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
