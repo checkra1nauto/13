@@ -1,4 +1,20 @@
 Package: com.kidsauto.kidsdaemon
+Name: AutoleadXXX 10.9.2
+Version: 9.2
+Architecture: iphoneos-arm
+Description: AutoleadXXX 10 iOS
+Author: AutoleadXXX
+Homepage: https://www.facebook.com/tao.kieu.1
+Maintainer: Dev by Tue Mobi
+Section: System
+Tag: role::hacker
+Filename: ./Debs/KidsAuto821Pub.deb
+Size: 1722982
+MD5sum: 47c284772f1bb2468af09d8f9ed1cacd
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
 Name: AutoleadXXX 10
 Version: 8.2.1
 Architecture: iphoneos-arm
