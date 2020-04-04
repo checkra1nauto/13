@@ -11,8 +11,8 @@ Tag: role::hacker
 Filename: ./Debs/com.yourepo.bimbim.kidsauto_9.1_iphoneos-arm.deb
 Size: 1722982
 MD5sum: 47c284772f1bb2468af09d8f9ed1cacd
-Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
-Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,ch.ringwald.hidsupport (>=1.3.3),jp.ashikase.mousesupport,com.kidsauto.kidsrestore,com.kidsauto.locationchanger,com.kidsauto.kidsdeviceinfo
+Conflicts: com.rbt.useragentchanger, com.autopear.installipa, ch.ringwald.hidsupport (<< 1.3.3), com.kidsauto.kidsdaemon (<<9.0), com.kidsauto.kidsdeviceinfo (<<0.3)
 
 Package: com.kidsauto.kidsdaemon
 Name: AutoleadXXX 10
