@@ -286,7 +286,7 @@ Tag: role::hacker
 Filename: ./Debs/mousesupport.deb
 Size: 24948
 MD5sum: e0d5d314ef35ec0a575f6523f48afe6a
-Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist, ch.ringwald.hidsupport (>= 1.3.3)
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist
 Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
 
 Package: jp.ashikase.mousesupport
@@ -301,5 +301,5 @@ Tag: role::hacker
 Filename: ./Debs/MouseSupport1.2.deb
 Size: 24812
 MD5sum: 4bcd976dd35c5705174f8100dde5e25a
-Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist, ch.ringwald.hidsupport (>= 1.3.4)
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist
 Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
